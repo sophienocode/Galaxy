@@ -8,6 +8,12 @@ function Sidebar() {
 
     <h1>Olá , como vai o dia ?</h1>
 
+    <h1>Olá , como vai o dia ?</h1>
+    
+     <h1>Olá , como vai o dia ?</h1>
+
+      <h1>Olá , como vai o dia ?</h1>
+
 
     
 
